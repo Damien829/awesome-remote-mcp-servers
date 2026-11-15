@@ -123,6 +123,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Aident Loadout](https://aident.ai) `https://loadout.aident.ai/mcp`
   [![Aident Loadout MCP connector](https://glama.ai/mcp/connectors/ai.aident.loadout/aident-ai/badges/score.svg)](https://glama.ai/mcp/connectors/ai.aident.loadout/aident-ai)
   🔐 - Find and run 27,000+ actions across 1,000+ apps, with vaulted credentials, cost preflight and an audit log.
+- [AIPayGen](https://aipaygen.com) `https://mcp.aipaygen.com/mcp`
+  [![AIPayGen MCP connector](https://glama.ai/mcp/connectors/io.github.Damien829/aipaygen/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Damien829/aipaygen)
+  🔓 - Search 19k+ agent APIs and MCP servers, and call 98 pay-per-call tools (web, company, crypto, AI) paid in USDC via x402.
 - [AIsa](https://aisa.one) `https://mcp.aisa.one/mcp`
   [![AIsa MCP connector](https://glama.ai/mcp/connectors/one.aisa/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/one.aisa/mcp)
   🔐 - One key for 950+ SEO, finance, social, search and sales APIs, with a spend cap on each call.
